@@ -1,6 +1,7 @@
 # Password-generator-system
 This project is a Password Generator System built using HTML, CSS, and JavaScript. The application allows users to generate secure and random passwords based on selected criteria, such as length and character types. Additionally, it includes a feature to toggle between light and dark themes for improved user experience.
-
+# Deployed Version
+The Password Generator System Web App is deployed and can be accessed here. DEMO-> (https://mendapararitik.github.io/Password-generator-system/)Password Generator System Project
 # Features:
 1. Password Generation:
   * Users can specify the length of the password.
