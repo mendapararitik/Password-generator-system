@@ -11,8 +11,7 @@ The Password Generator System Web App is deployed and can be accessed here. DEMO
   * A theme switcher is available to toggle between light and dark themes.
   * The current theme preference is saved in the browser's localStorage, ensuring the chosen theme is preserved across sessions.
 ![image](https://github.com/mendapararitik/Password-generator-system/assets/136411698/653f2a68-ad04-4cb4-8eba-caed3ecdd1e7)
-
-Now toggle to dark mode
+  * Now toggle to dark mode
 ![image](https://github.com/mendapararitik/Password-generator-system/assets/136411698/2c75fb76-2e97-4021-8b32-1f69d79b9999)
 
 # Technical Details:
